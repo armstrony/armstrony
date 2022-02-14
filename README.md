@@ -1,7 +1,8 @@
-### Assalamu'alaikum, Hi there 👋 , ようこそ
+<img src="./31. Summer_11zon.jpg" width="1000"/>
 
+# Assalamu'alaikum, Hi there 👋 , ようこそ
 Just an student who wants to know something.
-
+<img src="./33 Lake_11zon.jpg" align="right" width="300" height="400"/>
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -12,19 +13,21 @@ Just an student who wants to know something.
   
   <br>
   <br>
-
+  
 ### Software Skill
 <a href="#"><img align="left" width="21px" alt="ps" title="Photoshop" width="21px" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" /></a>
 <a href="#"><img align="left" alt="vscode" title="Visual Studio Code" width="21px" src="https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667" /></a>
 <a href="#"><img align="left" alt="camtasia" title="Camtasia" width="21px" src="https://img.icons8.com/color/48/000000/camtasia-studio.png" /></a>
-
 <br><br>
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/armstrony">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=armstrony&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=armstrony&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+  <img src="./26 Sinon (Remastered).png" align="right" width="300" height="400"/>
 </p>
+
 
 <!--
 **armstrony/armstrony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
