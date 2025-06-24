@@ -44,7 +44,7 @@
 
 <ul>
   <li>💻 <strong>Regular dev</strong> fueled by clean code, J-Pop beats, and the emotional damage of anime endings.</li>
-  <li>🛠️ <strong>Skilled in:</strong> <code><strong>Swift</strong></code>, <code><strong>DevOps</strong></code>, <code><strong>HTML</strong></code>, <code><strong>WordPress</strong></code></li>
+  <li>🛠️ <strong>Skilled in:</strong> <code><strong>Swift</strong></code>, <code><strong>DevOps</strong></code>, <code><strong>Web Developemnt</strong></code>, <code><strong>WordPress</strong></code></li>
 
   <li>📖 <strong>Manga breaks</strong> are sacred — sometimes I lose track of time while reading.</li>
   <li>🎮 <strong>Visual novels</strong> are my side quests. Choices are hard, okay?</li>
