@@ -44,11 +44,20 @@
 
 <ul>
   <li>💻 <strong>Regular dev</strong> fueled by clean code, J-Pop beats, and the emotional damage of anime endings.</li>
-  <li>🛠️ <strong>Skilled in:</strong> Swift, DevOps, HTML, and WordPress — basically making things that work (and look cool).</li>
+  <li>🛠️ <strong>Skilled in:</strong> <code><strong>Swift</strong></code>, <code><strong>DevOps</strong></code>, <code><strong>HTML</strong></code>, <code><strong>WordPress</strong></code></li>
+
   <li>📖 <strong>Manga breaks</strong> are sacred — sometimes I lose track of time while reading.</li>
   <li>🎮 <strong>Visual novels</strong> are my side quests. Choices are hard, okay?</li>
-  <li>🐸 <strong>Fesnuk scrolling</strong> is basically part of my workflow now.</li>
+  <li>🌐 <strong>Fesnuk scrolling</strong> is basically part of my workflow now.</li>
 </ul>
+
+<a href="https://github.com/armstrony/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=armstrony&theme=radical&show_icons=true&hide_title=true&card_width=320" />
+</a>
+&nbsp;
+<a href="https://github.com/armstrony/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armstrony&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 
 
 
