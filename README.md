@@ -70,13 +70,13 @@
 <p">If you’re interested in my work, feel free to visit these platforms:</p>
 
 <p>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="www.linkedin.com/in/mkhadafiess" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourname.github.io" target="_blank">
+  <a href="https://armstrony.github.io" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~yourupworkid" target="_blank">
+  <a href="https://www.upwork.com/freelancers/mkhadafiess" target="_blank">
     <img alt="Upwork" src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 </p>
