@@ -51,13 +51,21 @@
   <li>🌐 <strong>Fesnuk scrolling</strong> is basically part of my workflow now.</li>
 </ul>
 
-<a href="https://github.com/armstrony/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=armstrony&theme=radical&show_icons=true&hide_title=true&card_width=320" />
-</a>
-&nbsp;
-<a href="https://github.com/armstrony/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armstrony&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/armstrony/github-readme-stats">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=armstrony&theme=radical&show_icons=true&hide_title=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/armstrony/convoychat">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=armstrony&layout=compact&langs_count=8&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
