@@ -66,20 +66,13 @@
   </tr>
 </table>
 
-<h2>🔗 Let's Connect!</h3>
-<p">If you’re interested in my work, feel free to visit these platforms:</p>
+### 🔗 Let's Connect!
 
-<p>
-  <a href="#">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fmkhadafiess" />
-  </a>
-  <a href="https://armstrony.github.io">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/mkhadafiess">
-    <img alt="Upwork" src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-</p>
+If you’re curious about my work or want to reach out, feel free to check out the platforms below:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkhadafiess/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white)](https://armstrony.github.io)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~yourupworkid)
 
 
 
