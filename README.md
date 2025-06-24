@@ -46,7 +46,7 @@
   <li>💻 <strong>Regular dev</strong> fueled by clean code, J-Pop beats, and the emotional damage of anime endings.</li>
   <li>🛠️ <strong>Skilled in:</strong> <code><strong>Swift</strong></code>, <code><strong>DevOps</strong></code>, <code><strong>Web Developemnt</strong></code>, <code><strong>WordPress</strong></code></li>
 
-  <li>📖 <strong>Manga breaks</strong> are sacred — sometimes I lose track of time while reading.</li>
+  <li>📖 <strong>Manga breaks</strong> — sometimes I lose track of time while reading so do pls remind me.</li>
   <li>🎮 <strong>Visual novels</strong> are my side quests. Choices are hard, okay?</li>
   <li>🌐 <strong>Fesnuk scrolling</strong> is basically part of my workflow now.</li>
 </ul>
