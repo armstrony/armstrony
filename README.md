@@ -70,7 +70,7 @@
 <p">If you’re interested in my work, feel free to visit these platforms:</p>
 
 <p>
-  <a href="www.linkedin.com/in/mkhadafiess">
+  <a href="#">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fmkhadafiess" />
   </a>
   <a href="https://armstrony.github.io">
