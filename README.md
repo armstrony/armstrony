@@ -1,6 +1,6 @@
 <!-- <img src="./31. Summer_11zon.jpg" width="1000"/> !-->
 
-<h1 align="center"> Assalamu'alaikum All <br>Hi there 👋, Welcome To My Profile , ようこそ</h1>
+<h1 align="center"> Assalamu'alaikum <br>Hi there 👋, Welcome To My Profile , ようこそ</h1>
 
 <p align="center">
   <a href="https://count.getloli.com" target="_blank">
